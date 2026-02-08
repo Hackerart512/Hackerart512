@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on muskowl digitabl marketing company.<br>2 year of experiance in php laravel, i am freelancer to manage scale level of project, on full stack development with custom tools<br>
+I’m currently working with Muskowl Digital Marketing Company. I have 2 years of experience in PHP (Laravel) and work as a freelancer, managing and scaling projects end-to-end. I specialize in full-stack development, building custom tools and solutions tailored to business needs.
 
 
 ## 🌐 Socials:
